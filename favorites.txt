@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Sushi
 Chocolate
+=======
+Inception
+Rush hour
+Sweethome
+>>>>>>> movies
